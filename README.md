@@ -1,27 +1,38 @@
-📊 Superstore Sales Dashboard
-Overview
+# 📊 Superstore Sales Dashboard
 
-This project presents an interactive Excel Dashboard built using the Sample Superstore dataset to analyze sales performance, profitability, and customer purchasing trends. The dashboard helps stakeholders make data-driven decisions through clear visualizations and interactive filters.
+## Overview
 
-Tools Used
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Data Cleaning & Formatting
-Key Features
-KPI Cards for Total Sales, Quantity Sold, and Profit
-Sales Analysis by Region and Category
-Monthly Profit Trend Analysis
-Profit by Sub-Category
-Orders by Ship Mode
-Interactive Category and Region Filters
-Key Insights
-The West region generates the highest sales.
-Technology is the top-performing product category.
-Profit peaks during the last quarter of the year.
-Tables contribute negatively to profit.
-Standard Class is the most preferred shipping mode.
-Conclusion
+An interactive Excel dashboard built using the Sample Superstore dataset to analyze sales performance, profitability, and customer purchasing trends.
 
-The dashboard provides a comprehensive view of business performance, enabling users to identify trends, evaluate profitability, and support strategic decision-making through interactive data visualization.# SCT_DA_1
+## Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Slicers
+
+## Dashboard Features
+
+* KPI Cards (Total Sales, Profit, Quantity Sold)
+* Sales by Region
+* Sales by Category
+* Monthly Profit Trend
+* Profit by Sub-Category
+* Orders by Ship Mode
+* Interactive Filters
+
+## Key Insights
+
+* West region generated the highest sales.
+* Technology was the top-performing category.
+* Profit peaked during the final quarter of the year.
+* Tables showed negative profitability.
+* Standard Class was the most preferred shipping mode.
+
+## Dashboard Preview
+
+![Dashboard Screenshot](dashboard.png)
+
+## Conclusion
+
+This dashboard provides a comprehensive view of business performance, helping users identify trends, evaluate profitability, and make data-driven decisions.
