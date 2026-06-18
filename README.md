@@ -29,10 +29,6 @@ An interactive Excel dashboard built using the Sample Superstore dataset to anal
 * Tables showed negative profitability.
 * Standard Class was the most preferred shipping mode.
 
-## Dashboard Preview
-
-![Dashboard Screenshot](dashboard.png)
-
 ## Conclusion
 
 This dashboard provides a comprehensive view of business performance, helping users identify trends, evaluate profitability, and make data-driven decisions.
